@@ -17,4 +17,8 @@ public class App {
         System.out.println("Eu preciso DAR COMMIT PRIMEIRO NA ABA DE COMMIT.");
         System.out.println("Só depois eu vou dar push nisso.");
     }
+
+    void updateLocally() {
+        System.out.println("I'm updating this locally to see.");
+    }
 }
